@@ -13,6 +13,7 @@
 - Developer
   - AccountId
   - Approve
+  - IsBid
   - Process:
     1. To do
     2. In progress
@@ -20,11 +21,10 @@
     4. Done
 - Inspector
   - AccountId
-  - Approve
   - Verify:
     1. None
     2. Reject
-    3. Done
+    3. Pass
   - Comment
 - Investment (tiền đầu tư)
   - Inspection
